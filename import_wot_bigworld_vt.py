@@ -1,7 +1,7 @@
 """
 BigWorld .vt Collision Mesh Importer for Blender
 -------------------------------------------------
-Supports Blender 2.80 and later.
+Should supports Blender 2.80 and later.
 Author : Icefire00
 
 Installation:
