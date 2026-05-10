@@ -2,7 +2,7 @@
 A blender plugin for import/export WoT Bigworld's .vt
 
 This is a blender plugins for importing and exporting directly into/from blender
-Thank you to atacms for his work where .vt format is referred from https://github.com/atacms/wot-vt-converter 
+Thank to atacms for his work where .vt format is referred from https://github.com/atacms/wot-vt-converter 
 I just create this plugin to ease my WoT mod workflow in Blender 5.0
 
 Installation:
